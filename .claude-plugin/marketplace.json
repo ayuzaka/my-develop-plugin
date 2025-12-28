@@ -1,0 +1,21 @@
+{
+  "name": "my-develop-plugin-marketplace",
+  "owner": {
+    "name": "ayuzaka"
+  },
+  "metadata": {
+    "description": "my-develop-plugin を配布するためのマーケットプレイス",
+    "version": "0.0.1"
+  },
+  "plugins": [
+    {
+      "name": "my-develop-plugin",
+      "source": "./",
+      "description": "A greeting plugin to learn the basics",
+      "version": "0.0.1",
+      "author": {
+        "name": "ayuzaka"
+      }
+    }
+  ]
+}
