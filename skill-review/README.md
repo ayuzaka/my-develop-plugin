@@ -12,7 +12,7 @@ A Claude Code plugin for reviewing Agent Skills for specification compliance and
 ## Installation
 
 ```bash
-claude plugin add ayuzaka/agent-plugins/skill-review
+/plugin install skill-review@ayuzaka/agent-plugins
 ```
 
 ## Usage

@@ -20,17 +20,15 @@ A command that analyzes PLAN files and refines them through interactive question
 
 ## Installation
 
-Each plugin can be installed independently:
-
 ```bash
 # Install owasp-security-review
-claude plugin add ayuzaka/agent-plugins/owasp-security-review
+/plugin install owasp-security-review@ayuzaka/agent-plugins
 
 # Install skill-review
-claude plugin add ayuzaka/agent-plugins/skill-review
+/plugin install skill-review@ayuzaka/agent-plugins
 
 # Install ask-plan
-claude plugin add ayuzaka/agent-plugins/ask-plan
+/plugin install ask-plan@ayuzaka/agent-plugins
 ```
 
 ## Development

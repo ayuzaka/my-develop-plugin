@@ -11,7 +11,7 @@ A Claude Code plugin for security review and implementation support based on OWA
 ## Installation
 
 ```bash
-claude plugin add ayuzaka/agent-plugins/owasp-security-review
+/plugin install owasp-security-review@ayuzaka/agent-plugins
 ```
 
 ## Usage
